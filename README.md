@@ -22,7 +22,6 @@
     </object>
 </div>
 
-<iframe>[https://public.tableau.com/views/TuTablero/NombreDelVista](https://haproxy-traffic-splitter/views/Disponibilidad_17228625008250/DiasdetenidosydisponibleVitualSeptiembre?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))</iframe>
 
 
 
